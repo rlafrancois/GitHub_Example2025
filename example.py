@@ -1,7 +1,7 @@
 import numpy as np 
 import matplotlib.pyplot as plt
 x = input("Enter name here: ")
-
+#Printing name provided as input
 print('hello' + x)
 
 
