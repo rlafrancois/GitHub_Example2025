@@ -1,0 +1,1 @@
+I learned the uses and functionality of cloning, forking, commiting, as well as how to use the GitHub remote app to set up my private project, which will be very useful. 
