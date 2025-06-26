@@ -17,3 +17,8 @@ plt.savefig('test.png')
 #delete this as well
 ####
 
+print('New pull request' + x)
+
+
+
+
